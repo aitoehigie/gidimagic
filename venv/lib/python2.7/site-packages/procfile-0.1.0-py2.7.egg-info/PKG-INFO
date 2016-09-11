@@ -1,0 +1,27 @@
+Metadata-Version: 1.1
+Name: procfile
+Version: 0.1.0
+Summary: Procfile parser
+Home-page: https://github.com/smartmob-project/procfile
+Author: Andre Caron
+Author-email: ac@smartmob.org
+License: UNKNOWN
+Description: #############
+          procfile
+        #############
+        
+        Description
+        ===========
+        
+        This project is a Python implementation of a ``Procfile`` parser.  See
+        `Smartmob RFC 1 -- Procfile
+        <http://smartmob-rfc.readthedocs.org/en/latest/1-procfile.html>`_.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Software Development :: Libraries
