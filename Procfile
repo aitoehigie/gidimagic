@@ -1,1 +1,1 @@
-web: gunicorn lagosmagic:server
+web: gunicorn server:app
